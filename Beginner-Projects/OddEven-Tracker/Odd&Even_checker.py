@@ -2,7 +2,7 @@ red = "\033[91m"
 green = "\033[92m"
 reset = "\033[0m"
 
-while True:
+while True: 
     try:
         num = int(input("Enter a Number:"))
         if num%2 == 0:
