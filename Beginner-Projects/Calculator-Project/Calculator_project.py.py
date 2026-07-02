@@ -8,7 +8,7 @@ while True:
     if op=="+":
         result=num1+num2
         print("you entered",num1,op,num2)
-        print(green + "Result =" + str(result) + reset )
+        print(green + "Result =" + str(result) + reset ) 
     elif op=="-":
         result=num1-num2
         print("you entered",num1,op,num2)
