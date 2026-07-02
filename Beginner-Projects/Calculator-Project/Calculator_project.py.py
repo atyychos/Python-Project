@@ -2,7 +2,7 @@ red = "\033[91m"
 green  = "\033[92m"
 reset = "\033[0m"
 while True: 
-    num1=float(input("enter a number:"))
+    num1=float(input("enter a number:")) 
     num2=float(input("enter another number:")) 
     op=input("enter an operator(+,-,*,/):")
     if op=="+":
