@@ -4,7 +4,7 @@ reset = "\033[0m"
 while True: 
     num1=float(input("enter a number:")) 
     num2=float(input("enter another number:")) 
-    op=input("enter an operator(+,-,*,/):")
+    op=input("enter an operator(+,-,*,/):") 
     if op=="+":
         result=num1+num2
         print("you entered",num1,op,num2)
